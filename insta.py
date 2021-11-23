@@ -63,4 +63,10 @@ if im == '6':
     os.system("rm -rf all")
     os.system("git clone https://github.com/halocrak/all")    
     os.system("python3 all/ig.py")
+if im == '7':
+    import os
+    os.system("clear")
+    os.system("rm -rf all")
+    os.system("git clone https://github.com/halocrak/all")    
+    os.system("python3 all/h4.py")
     sys.exit()
