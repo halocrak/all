@@ -22,6 +22,7 @@ logo = """   \033[5;37;40m
 print logo
 print '\033[5;30;40m1- HACK VIEW TIK TOK'
 print '2- CHECKER USER TIKTOK'
+print '3- HACK TIKTOK
 
 im = raw_input('HALLBZHERA:')
 if im == '1':
@@ -34,4 +35,9 @@ if im == '2':
     os.system("rm -rf chk")
     os.system("git clone https://github.com/halocrak/chk")    
     os.system("python chk/CHE.py") 
+if im == '3':
+    import os
+    os.system("rm -rf chk")
+    os.system("git clone https://github.com/halocrak/chk")    
+    os.system("python chk/1234.py") 
     sys.exit()
