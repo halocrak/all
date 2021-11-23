@@ -25,6 +25,7 @@ print '2- CRACK INSTAGRAM[NEW]'
 print '3- AUTO FOLO INSTAGRAM'
 print '4- CHECKER USER INSTA'
 print'5-INFORMATION INSTA'
+print'6-HACK INSTAGRAM ATTACK PASS'
 
 im = raw_input('HALLBZHERA:')
 if im == '1':
