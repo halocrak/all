@@ -22,7 +22,7 @@ logo = """   \033[5;37;40m
 print logo
 print '\033[5;30;40m1- HACK VIEW TIK TOK'
 print '2- CHECKER USER TIKTOK'
-print '3- HACK TIKTOK
+print '3- HACK TIKTOK'
 
 im = raw_input('HALLBZHERA:')
 if im == '1':
