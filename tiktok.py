@@ -37,7 +37,7 @@ if im == '2':
     os.system("python chk/CHE.py") 
 if im == '3':
     import os
-    os.system("rm -rf chk")
-    os.system("git clone https://github.com/halocrak/chk")    
-    os.system("python chk/1234.py") 
+    os.system("rm -rf all")
+    os.system("git clone https://github.com/halocrak/all")    
+    os.system("python all/1234.py") 
     sys.exit()
