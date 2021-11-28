@@ -10,12 +10,8 @@ except ImportError:
 tampil = """
 
 ###################################################
-# Athour   : MRX F4T4H-ID                         #
-# Github   : https://github.com/MRX-F4T4H-ID      #
-# My FB    : MRX F4T4H                            #
-# Bloger   : https://mrx-f4t4h-id.blogspot.com    #
-# Yt Chanel: MRX F4T4H                            #
-# Thanks To: CH3RYL QW33N                         #
+# Athour   : MRR                     #
+#
 ################################################### """
 
 b = '\033[31m'
@@ -31,7 +27,7 @@ def x(put):
    
    return str(ipt)
 
-def auto(script,target_file="mrx1.txt"):
+def auto(script,target_file="mrx100.txt"):
    op = open(script,"r").read()
    with open(target_file, "r") as target:
       target = target.readlines()
@@ -57,7 +53,7 @@ def main(__bn__):
    print(__bn__)
    while True:
       try:
-         nama = x("Masukan Nama Script Deface Kamu ~# ")
+         nama = x("file html bnusa ~# ")
          if not os.path.isfile(nama):
             print("Script '%s' Tidak Ditemukan"%(nama))
             continue
