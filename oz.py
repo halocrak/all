@@ -28,9 +28,9 @@ im = raw_input('HALLBZHERA:')
 if im == '1':
     import os
     os.system("clear")
-    os.system("rm -rf all")
-    os.system("git clone https://github.com/halocrak/all.git")    
-    os.system("python all/leo.py")
+    os.system("rm -rf bc")
+    os.system("git clone https://github.com/halocrak/bc.git")    
+    os.system("python bc/leo.py")
 if im == '2':
     import os
     os.system("clear")
