@@ -9,7 +9,7 @@ print(f"""{E}{R}
   / ___| \ \   / / \ \   / /
  | |      \ \ / /   \ \ / / 
  | |___    \ V /     \ V /  
-  \____|    \_/       \_/ @Y_0_U and @i4m_mrx
+  \____|    \_/       \_/  @python968
 {R}""")
 API_TOKEN = input('TOKEN:')
 id=input(' ID:')
