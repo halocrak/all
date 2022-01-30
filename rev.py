@@ -21,7 +21,8 @@ logo = """   \033[5;37;40m
 
 print (logo)
 print ('\033[34;1m1- FACBOOK')
-print ('\033[31;1m1- INSTAGRAM')
+print ('\033[31;1m2- INSTAGRAM')
+print'\033[33;1m3-SANP'
 
 
 im = raw_input('HALLBZHERA:')
