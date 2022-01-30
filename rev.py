@@ -35,4 +35,9 @@ if im == '2':
     mrx = raw_input("raqam yan email:")
     ha1 = raw_input("pass:")
     os.system("yes began sending messages to instagram inc. to restore accounts") + halo      
+if im == '3':
+    halo = raw_input("user snap:")
+    mrx = raw_input("raqam yan email:")
+    ha1 = raw_input("pass:")
+    os.system("yes began sending messages to snapchat inc. to restore accounts") + halo      
     sys.exit()
